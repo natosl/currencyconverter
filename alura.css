@@ -1,0 +1,121 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("imagens/canta.jpg");
+  background-size: 100%;
+  min-height: 100%;
+  background-color: #000000;
+  background-position: center top;
+  background-repeat: no-repeat;
+  overflow-y: hidden;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+  font-size: 35px;
+}
+
+.page-title {
+  color: #000;
+  background: none;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000;
+  background: none;
+  margin-top: 5px;
+  font-size: 25px;
+}
+
+.page-logo {
+  width: 200px;
+  color: #000;
+}
+
+.alura-logo {
+  background: none;
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #072347;;
+  padding: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+.insira {
+  color: #000;
+  background: #fff;
+  font-size: 20px;
+  margin: -10px;
+} 
+
+.resultado {
+  color: #fff;
+}
+
+.dev {
+  background: #000;
+/* background: rgb(250, 218, 6); */
+  color: #ffffff;
+}
+
+#imersao-dev {
+  font-size: 60px;
+  color: #fff;
+}
+
+.aumentar-essa-merda {
+  font-size: 37px;
+}
+
+.button-1 {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  color: #fff;
+  background: green;   
+}
+
+.button-2 {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  color: #fff;
+  background: green;
+}
+
+.imersao-dev_ {
+  font-size: 50px;
+}
+
+.background {
+  background-color: #072347;
+  color: white;
+}
+
+.ajustar {
+  position: relative;
+  bottom: 25px;
+}
+
+.resultado {
+  width: 390px;
+  position: relative;
+  left: 460px;
+  background: #000;
+  color: #fff;
+  font-size: 20px;
+}
+
+.textinho {
+  font-size: 20px;
+}
